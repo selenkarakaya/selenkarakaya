@@ -26,3 +26,4 @@ Areas of Expertise:
 Responsive Design, User Interface Design
 Back-End Database Integration, API Integration
 Version Control (Git)
+
