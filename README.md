@@ -1,9 +1,4 @@
-# Selen-Karakaya
-My personal repository.
 
-
-
-Here's a well-structured GitHub profile page layout based on your resume. This format highlights your skills, projects, and experience in a way that is commonly used on GitHub profile READMEs.
 
 Selen Karakaya, MSc
 Junior Front-end Developer
