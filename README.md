@@ -1,14 +1,6 @@
 
+Hi there! 👋 I’m Selen, a detail-oriented Junior Front-end Developer based in Southampton, UK. I have a passion for crafting immersive and responsive web applications using HTML, CSS, JavaScript, and React. With an engineering background, I focus on creating seamless user experiences and integrating APIs to enhance functionality and user interaction. I utilize modern tools like Bootstrap, Tailwind, and SASS to build intuitive and accessible websites. Always eager to learn and collaborate on exciting projects, feel free to check out my work below or connect with me!
 
-Selen Karakaya, MSc
-Junior Front-end Developer
-📧 selennurkarakayaa@gmail.com | 📱 (788) 194-4450 | 🌍 Southampton, UK
-LinkedIn | Portfolio | GitHub
-
-👩‍💻 About Me
-I am a detail-oriented Front-end Developer with a passion for crafting immersive and responsive web applications. With a background in engineering and a focus on creating seamless user experiences, I am adept at integrating APIs to enhance functionality and user interaction. I specialize in HTML, CSS, JavaScript, and React, using modern tools like Bootstrap, Tailwind, and SASS to build intuitive, accessible, and engaging websites.
-
-I am currently based in Southampton, UK, and I am eligible to work in the UK. I am excited to contribute my skills to collaborative projects and continuously improve as a developer.
 
 🛠️ Tech Stack
 Development Languages:
@@ -21,4 +13,13 @@ Areas of Expertise:
 Responsive Design, User Interface Design
 Back-End Database Integration, API Integration
 Version Control (Git)
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** JavaScript, Python
+- **Front-End Technologies:** HTML5, CSS3, SASS/SCSS, Bootstrap, Tailwind, ReactJS, jQuery, TypeScript
+- **Tools:** Git, npm, APIs
+
+---
 
