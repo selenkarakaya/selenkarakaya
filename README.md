@@ -19,7 +19,7 @@ With an engineering background, I have a unique perspective on problem-solving, 
 - **Areas of Expertise:** Responsive Design, User Interface Design
 ---
 ### 🌱 Currently Learning
-I'm continually expanding my knowledge, currently diving deeper into **advanced JavaScript**, **React hooks**, **backend development with Node.js**, **using MongoDB as a database**, and I plan to **learn Django to create databases for my next projects**.
+I'm continually expanding my knowledge, currently diving deeper into advanced JavaScript, React hooks, backend development with Node.js, using MongoDB as a database, and I’m actively working on **React & Node.js project**— [check them out here!](https://github.com/selenkarakaya/eyeWateringWordsProject). My future plans include learning Django to create robust databases for my next project.
 
 ### 💼 Portfolio Projects
 - **Dynamic Planners**: Organized hobby planners and goal-setting apps with personalized features.
