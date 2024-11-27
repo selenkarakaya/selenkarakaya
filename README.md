@@ -33,7 +33,6 @@ Feel free to explore my GitHub repositories below to see my work in action, from
 - **[Portfolio Website](https://selenkarakaya.netlify.app/)** 
 
 Thank you for stopping by, and I look forward to connecting or collaborating on exciting projects!
-
 ---
 
 ### 📊 GitHub Stats
