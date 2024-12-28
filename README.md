@@ -2,6 +2,7 @@
 
 I'm a **detail-oriented Junior Front-end Developer** based in Southampton, UK, passionate about crafting immersive and responsive web applications. My journey as a self-taught developer has been driven by curiosity and a commitment to creating seamless, user-friendly digital experiences.
 
+
 With an engineering background, I have a unique perspective on problem-solving, focusing on clean design, efficient code, and integrating **APIs** to bring added functionality to my projects. My toolkit includes **HTML, CSS, JavaScript, React, Node.js**, and modern styling libraries like **Bootstrap, Tailwind, and SASS**. I strive to build intuitive, accessible websites that prioritize both aesthetics and usability.
 
 ### 🌟 What I Do
