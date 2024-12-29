@@ -45,6 +45,7 @@ Feel free to explore my GitHub repositories below to see my work in action, from
 
 ## Thank you for stopping by, and I look forward to connecting or collaborating on exciting projects!
 
+
 ### 📊 GitHub Stats
 
 ![Selen's GitHub stats](https://github-readme-stats.vercel.app/api?username=selenkarakaya&show_icons=true&theme=radical)
