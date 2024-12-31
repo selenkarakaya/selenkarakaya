@@ -27,11 +27,11 @@ With an engineering background, I have a unique perspective on problem-solving, 
 ---
 
 ### 🌱 Currently Learning  
-I’ve recently completed my **Eye Watering Words** project, built with **React** and **Node.js**- [check them out here!](https://eyewateringword-468f399c8e55.herokuapp.com/). Now, I’ve just started working on a new project combining **Django** and **React**, where I’m exploring Django for backend development and database management.  
+I’ve recently completed my **Eye Watering Words** project, built with **React** and **Node.js**- [check them out here!](https://eyewateringword-468f399c8e55.herokuapp.com/). Now, I’ve just started working on a new project combinIing **Django** and **React**, where I’m exploring Django for backend development and database management.  
 
 ### 💼 Portfolio Projects
 
-- **Dynamic Planners**: Organized hobby planners and goal-setting apps with personalized features.
+- **Dynamic Planners**: Organized hobby planners and goal-setting apps with personali zed features.
 - **Entertainment Trackers**: Track movies, books, and other content with customizable user options.
 - **Responsive UI Components**: Developed reusable UI elements in React for smooth user interaction.
 
@@ -49,3 +49,13 @@ Feel free to explore my GitHub repositories below to see my work in action, from
 
 ![Selen's GitHub stats](https://github-readme-stats.vercel.app/api?username=selenkarakaya&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selenkarakaya&layout=compact&theme=radical)
+
+
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=selenkarakaya&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=selenkarakaya&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=selenkarakaya&theme=radical)  
+
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=selenkarakaya&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
