@@ -51,5 +51,3 @@ Feel free to explore my GitHub repositories below to see my work in action, from
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selenkarakaya&layout=compact&theme=radical)
 
 
-
-### 📊 GitHub 
