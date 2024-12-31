@@ -30,6 +30,9 @@ With an engineering background, I have a unique perspective on problem-solving, 
 
 I'm continually expanding my knowledge, currently diving deeper into advanced JavaScript, React hooks, backend development with Node.js, using MongoDB as a database, and I’m actively working on **React & Node.js project**— [check them out here!](https://github.com/selenkarakaya/eyeWateringWordsProject). My future plans include learning Django to create robust databases for my next project.
 
+### 🌱 Currently Learning  
+I’ve recently completed my **Eye Watering Words** project, built with **React** and **Node.js**- [check them out here!](https://github.com/selenkarakaya/eyeWateringWordsProject). Now, I’ve just started working on a new project combining **Django** and **React**, where I’m exploring Django for backend development and database management.  
+
 ### 💼 Portfolio Projects
 
 - **Dynamic Planners**: Organized hobby planners and goal-setting apps with personalized features.
