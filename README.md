@@ -57,5 +57,5 @@ Feel free to explore my GitHub repositories below to see my work in action, from
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=selenkarakaya&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=selenkarakaya&theme=radical)  
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=selenkarakaya&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=selenkarakaya&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
