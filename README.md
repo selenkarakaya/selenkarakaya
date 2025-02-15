@@ -48,5 +48,3 @@ Feel free to explore my GitHub repositories below to see my work in action, from
 
 ![Selen's GitHub stats](https://github-readme-stats.vercel.app/api?username=selenkarakaya&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selenkarakaya&layout=compact&theme=radical)
-
-
