@@ -54,14 +54,18 @@ Junior Full-Stack Developer roles
 UK 🇬🇧 | Remote | Hybrid
 
 ---
-
 ## GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=selenkarakaya&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=selenkarakaya&layout=compact&theme=transparent&hide_border=true"/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=selenkarakaya&show_icons=true&hide_border=true&cache_seconds=86400"
+    alt="Selennur's GitHub stats"
+  />
 </p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=selenkarakaya&layout=compact&hide_border=true&cache_seconds=86400"
+    alt="Top languages"
+  />
 </p>
