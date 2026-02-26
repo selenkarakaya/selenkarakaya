@@ -48,42 +48,39 @@ I enjoy turning ideas into real, production-ready applications with clean archit
 
 
 
-## 🌱 Currently Learning  
+# ⭐ Featured Project
 
-I recently built a **Nail Studio** project using **Django and React**, where I implemented **CRUD operations** and managed data efficiently between the frontend and backend – [check it out here!](https://f0cd3c7e-6ff3-490c-b642-a2b916772aa2.e1-eu-north-azure.choreoapps.dev/).  
+## 🪴 Plant Store – Full-Stack E-commerce
 
-Now, I’m diving deeper into **Django**, exploring its advanced features, and planning to integrate a **custom admin panel** into my project for better management and scalability.  
+Full-stack e-commerce application with authentication and cart functionality.
 
----
+**Tech Stack**
 
-## 💼 Portfolio Projects  
+React  
+Redux Toolkit  
+Node.js  
+Express  
+PostgreSQL  
 
-- **Dynamic Planners**: Organized hobby planners and goal-setting apps with personalized features.  
-- **Entertainment Trackers**: Track movies, books, and other content with customizable user options.  
-- **Responsive UI Components**: Developed reusable UI elements in React for smooth user interaction.  
-- **Django CRUD App**: Built a full-stack CRUD application using Django and React, exploring database operations and admin panel features.  
+**Live Demo**
 
----
-
-## 🚀 Explore My Work  
-
-Feel free to explore my GitHub repositories below to see my work in action, from sample applications to full-scale projects!  
+https://plantstore-production-748f.up.railway.app/
 
 ---
 
-## 🤝 Connect with Me  
+# 💼 Open to Work
 
-📌 **[LinkedIn](https://www.linkedin.com/in/selenkarakaya/)**  
-🌍 **[Portfolio Website](https://selenkarakaya.netlify.app/)**  
+Junior Full-Stack Developer  
+Junior Software Developer  
+Junior Web Developer  
 
-I’d love to connect and collaborate on exciting projects! 🚀  
+UK 🇬🇧 | Remote | Hybrid
 
 ---
 
-## 📊 GitHub Stats  
 
-<div align="center">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=selenkarakaya&show_icons=true&theme=radical" />  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selenkarakaya&layout=compact&theme=radical" />  
-</div>
+# 📊 GitHub Stats
 
+![Selennur GitHub stats](https://github-readme-stats.vercel.app/api?username=selenkarakaya&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=selenkarakaya&layout=compact)
