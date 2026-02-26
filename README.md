@@ -11,61 +11,75 @@ Full-Stack Developer based in the UK 🇬🇧
 </p>
 
 ---
-
 ## About Me
 
-I build full-stack web applications using:
+I am a Full-Stack Developer with hands-on experience building modern, production-ready web applications using technologies such as React, Node.js, Express, and PostgreSQL.
 
-• React  
-• Node.js  
-• Express  
-• PostgreSQL  
+On the frontend, I develop responsive and accessible user interfaces with React, focusing on component-based architecture, reusable logic, and clean state management using tools like Redux Toolkit. I pay attention to performance, usability, and creating intuitive user experiences.
 
-I focus on building clean, scalable, production-ready applications.
+On the backend, I design and build RESTful APIs using Node.js and Express. I implement core features such as authentication, CRUD operations, and business logic, and connect applications to relational databases like PostgreSQL. I have experience designing database schemas and managing data efficiently.
+
+I have built and deployed full-stack projects including an e-commerce platform and booking systems, where I handled both frontend and backend development, database integration, and deployment.
+
+I focus on writing clean, maintainable code and building scalable applications that solve real-world problems.
 
 ---
 
 ## Tech Stack
 
-<p>
-
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres,js,html,css,tailwind,bootstrap,python,django,git,github" />
-
 </p>
 
 ---
 
-## Featured Project
+## Featured Projects
 
 ### 🪴 Plant Store – Full-Stack E-commerce
 
 Full-stack e-commerce application with authentication and cart functionality.
 
-**Tech:** React, Redux, Node.js, Express, PostgreSQL
+**Tech:** React, Redux Toolkit, Node.js, Express, PostgreSQL
 
 Live Demo:  
 https://plantstore-production-748f.up.railway.app/
+
+Repository:  
+https://github.com/selenkarakaya
+
+---
+
+### 💅 Nail Studio – Booking System
+
+Appointment booking system with full backend integration.
+
+**Tech:** React, Django, PostgreSQL
+
+Live Demo:  
+https://nailstudio-frontend-production.up.railway.app/
+
+---
+
+### 🌍 Gazetteer – Country Information App
+
+Interactive web application using external APIs.
+
+**Tech:** JavaScript, REST APIs, Bootstrap
+
+Live Demo:  
+https://selennurkarakaya.co.uk/gazetteer
 
 ---
 
 ## Open to Work
 
-Junior Full-Stack Developer roles  
-UK 🇬🇧 | Remote | Hybrid
+I am currently open to:
+
+- Junior Full-Stack Developer roles  
+- Junior Software Developer roles  
+- Junior Web Developer roles  
+
+UK 🇬🇧 | Remote | Hybrid | On-site
 
 ---
-## GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=selenkarakaya&show_icons=true&hide_border=true&cache_seconds=86400"
-    alt="Selennur's GitHub stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=selenkarakaya&layout=compact&hide_border=true&cache_seconds=86400"
-    alt="Top languages"
-  />
-</p>
