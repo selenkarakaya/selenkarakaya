@@ -5,9 +5,10 @@ Full-Stack Developer based in the UK 🇬🇧
 </p>
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 ![Selen's GitHub stats](https://github-readme-stats-five-eta-14.vercel.app/api?username=selenkarakaya&show_icons=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats-five-eta-14.vercel.app/api/top-langs/?username=selenkarakaya&layout=compact&theme=transparent)
 <p align="center">
 <a href="https://selennurkarakaya.co.uk">Portfolio</a> •
 <a href="https://www.linkedin.com/in/selenkarakaya">LinkedIn</a> •
