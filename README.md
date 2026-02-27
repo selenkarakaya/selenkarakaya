@@ -3,11 +3,9 @@
 <p align="center">
 Full-Stack Developer based in the UK 🇬🇧
 </p>
-## 📊 GitHub Stats
 
-## 📊 GitHub Stats
 
-![Selen's GitHub stats](https://github-readme-stats-five-eta-14.vercel.app/api?username=selenkarakaya&show_icons=true&theme=transparent)
+
 
 <p align="center">
 <a href="https://selennurkarakaya.co.uk">Portfolio</a> •
@@ -87,4 +85,9 @@ I am currently open to:
 UK 🇬🇧 | Remote | Hybrid | On-site
 
 ---
+## 📊 GitHub Stats
+## 📊 GitHub Stats
 
+![Selen's GitHub stats](https://github-readme-stats-five-eta-14.vercel.app/api?username=selenkarakaya&show_icons=true&theme=transparent&v=2)
+
+![Top Languages](https://github-readme-stats-five-eta-14.vercel.app/api/top-langs/?username=selenkarakaya&layout=compact&theme=transparent&v=2)
