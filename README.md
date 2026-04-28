@@ -4,11 +4,10 @@
 Full-Stack Developer based in the UK 🇬🇧
 </p>
 <p align="center">
-<a href="https://selennurkarakaya.co.uk">Portfolio</a> •
-<a href="https://www.linkedin.com/in/selenkarakaya">LinkedIn</a> •
-<a href="mailto:selennurkarakayaa@gmail.com">Email</a >
+  <a href="https://selennurkarakaya.co.uk"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a><!--
+  --><a href="https://www.linkedin.com/in/selenkarakaya"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a><!--
+  --><a href="mailto:selennurkarakayaa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
-
 ---
 ## About Me
 
