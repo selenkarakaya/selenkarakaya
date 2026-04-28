@@ -54,7 +54,11 @@ UK 🇬🇧 | Remote | Hybrid | On-site
 
 ---
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats-five-eta-14.vercel.app/api?username=selenkarakaya&show_icons=true&theme=transparent&v=2" width="48%" />
+  <img src="https://github-readme-stats-five-eta-14.vercel.app/api/top-langs/?username=selenkarakaya&layout=compact&theme=transparent&v=2" width="48%" />
+</p>
 
-![Selen's GitHub stats](https://github-readme-stats-five-eta-14.vercel.app/api?username=selenkarakaya&show_icons=true&theme=transparent&v=2)
-
-![Top Languages](https://github-readme-stats-five-eta-14.vercel.app/api/top-langs/?username=selenkarakaya&layout=compact&theme=transparent&v=2)
+<p align="center">
+  <em>GitHub Activity & Most Used Technologies</em>
+</p>
